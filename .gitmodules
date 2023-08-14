@@ -1,90 +1,90 @@
 [submodule "31/cnappgoat"]
-	path = 31/cnappgoat
+	path = 31/uncategorized/cnappgoat
 	url = https://github.com/ermetic-research/cnappgoat
 [submodule "31/crAPI"]
-	path = 31/crAPI
+	path = 31/uncategorized/crAPI
 	url = https://github.com/OWASP/crAPI
 [submodule "31/shufflecake-c"]
-	path = 31/shufflecake-c
+	path = 31/uncategorized/shufflecake-c
 	url = https://codeberg.org/shufflecake/shufflecake-c
 [submodule "31/LambdaLooter"]
-	path = 31/LambdaLooter
+	path = 31/uncategorized/LambdaLooter
 	url = https://github.com/StateFarmIns/LambdaLooter
 [submodule "31/unguard"]
-	path = 31/unguard
+	path = 31/uncategorized/unguard
 	url = https://github.com/dynatrace-oss/unguard
 [submodule "31/SucoshScanny"]
-	path = 31/SucoshScanny
+	path = 31/uncategorized/SucoshScanny
 	url = https://github.com/MustafaBilgici/SucoshScanny
 [submodule "31/T3SF"]
-	path = 31/T3SF
+	path = 31/uncategorized/T3SF
 	url = https://github.com/Base4Security/T3SF
 [submodule "31/Strix-Interceptor"]
-	path = 31/Strix-Interceptor
+	path = 31/uncategorized/Strix-Interceptor
 	url = https://github.com/Lexicon421/Strix-Interceptor
 [submodule "31/build-inspector"]
-	path = 31/build-inspector
+	path = 31/uncategorized/build-inspector
 	url = https://github.com/vmware-labs/build-inspector
 [submodule "31/ek47"]
-	path = 31/ek47
+	path = 31/uncategorized/ek47
 	url = https://gitlab.com/KevinJClark/ek47
 [submodule "31/dracon"]
-	path = 31/dracon
+	path = 31/uncategorized/dracon
 	url = https://github.com/thought-machine/dracon
 [submodule "31/FlowMate"]
-	path = 31/FlowMate
+	path = 31/uncategorized/FlowMate
 	url = https://github.com/usdAG/FlowMate
 [submodule "31/Glyph"]
-	path = 31/Glyph
+	path = 31/uncategorized/Glyph
 	url = https://github.com/Xenios91/Glyph
 [submodule "31/EvilnoVNC"]
-	path = 31/EvilnoVNC
+	path = 31/uncategorized/EvilnoVNC
 	url = https://github.com/JoelGMSec/EvilnoVNC
 [submodule "31/attack-surface-framework"]
-	path = 31/attack-surface-framework
+	path = 31/uncategorized/attack-surface-framework
 	url = https://github.com/vmware-labs/attack-surface-framework
 [submodule "31/scorecard"]
-	path = 31/scorecard
+	path = 31/uncategorized/scorecard
 	url = https://github.com/ossf/scorecard
 [submodule "31/The_Wifydra"]
-	path = 31/The_Wifydra
+	path = 31/uncategorized/The_Wifydra
 	url = https://github.com/lozaning/The_Wifydra
 [submodule "31/USBvalve"]
-	path = 31/USBvalve
+	path = 31/uncategorized/USBvalve
 	url = https://github.com/cecio/USBvalve
 [submodule "31/veilid"]
-	path = 31/veilid
+	path = 31/uncategorized/veilid
 	url = https://gitlab.com/veilid/veilid
 [submodule "31/lupo"]
-	path = 31/lupo
+	path = 31/uncategorized/lupo
 	url = https://github.com/malienist/lupo
 [submodule "31/RedWizard"]
-	path = 31/RedWizard
+	path = 31/uncategorized/RedWizard
 	url = https://github.com/SecuraBV/RedWizard
 [submodule "31/Kraken"]
-	path = 31/Kraken
+	path = 31/uncategorized/Kraken
 	url = https://github.com/kraken-ng/Kraken
 [submodule "31/SQLRecon"]
-	path = 31/SQLRecon
+	path = 31/uncategorized/SQLRecon
 	url = https://github.com/skahwah/SQLRecon
 [submodule "31/bbot"]
-	path = 31/bbot
+	path = 31/uncategorized/bbot
 	url = https://github.com/blacklanternsecurity/bbot
 [submodule "31/mi-x"]
-	path = 31/mi-x
+	path = 31/uncategorized/mi-x
 	url = https://github.com/Rezilion/mi-x
 [submodule "31/pcapinator"]
-	path = 31/pcapinator
+	path = 31/uncategorized/pcapinator
 	url = https://github.com/mspicer/pcapinator
 [submodule "31/ruleprocessorY"]
-	path = 31/ruleprocessorY
+	path = 31/uncategorized/ruleprocessorY
 	url = https://github.com/0xVavaldi/ruleprocessorY
 [submodule "31/nuclei"]
-	path = 31/nuclei
+	path = 31/uncategorized/nuclei
 	url = https://github.com/projectdiscovery/nuclei
 [submodule "31/HardHatC2"]
-	path = 31/HardHatC2
+	path = 31/uncategorized/HardHatC2
 	url = https://github.com/DragoQCC/HardHatC2
 [submodule "31/ics-forensics-tools"]
-	path = 31/ics-forensics-tools
+	path = 31/uncategorized/ics-forensics-tools
 	url = https://github.com/microsoft/ics-forensics-tools
