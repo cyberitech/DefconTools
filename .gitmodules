@@ -88,3 +88,90 @@
 [submodule "31/ics-forensics-tools"]
 	path = 31/uncategorized/ics-forensics-tools
 	url = https://github.com/microsoft/ics-forensics-tools
+[submodule "30/uncategorized/AADInternals"]
+	path = 30/uncategorized/AADInternals
+	url = https://github.com/Gerenios/AADInternals
+[submodule "30/uncategorized/access-undenied-aws"]
+	path = 30/uncategorized/access-undenied-aws
+	url = https://github.com/ermetic/access-undenied-aws
+[submodule "30/uncategorized/alsanna"]
+	path = 30/uncategorized/alsanna
+	url = https://github.com/dulaku/alsanna
+[submodule "30/uncategorized/AWSGoat"]
+	path = 30/uncategorized/AWSGoat
+	url = https://github.com/ine-labs/AWSGoat
+[submodule "30/uncategorized/AzureGoat"]
+	path = 30/uncategorized/AzureGoat
+	url = https://github.com/ine-labs/AzureGoat
+[submodule "30/uncategorized/badrats"]
+	path = 30/uncategorized/badrats
+	url = https://gitlab.com/KevinJClark/badrats
+[submodule "30/uncategorized/ControlCompass.github.io"]
+	path = 30/uncategorized/ControlCompass.github.io
+	url = https://github.com/ControlCompass/ControlCompass.github.io
+[submodule "30/uncategorized/EDRSandblast"]
+	path = 30/uncategorized/EDRSandblast
+	url = https://github.com/wavestone-cdt/EDRSandblast
+[submodule "30/uncategorized/emba"]
+	path = 30/uncategorized/emba
+	url = https://github.com/e-m-b-a/emba
+[submodule "30/uncategorized/Empire"]
+	path = 30/uncategorized/Empire
+	url = https://github.com/BC-SECURITY/Empire
+[submodule "30/uncategorized/FISSURE"]
+	path = 30/uncategorized/FISSURE
+	url = https://github.com/ainfosec/FISSURE
+[submodule "30/uncategorized/hls4ml"]
+	path = 30/uncategorized/hls4ml
+	url = https://github.com/fastmachinelearning/hls4ml
+[submodule "30/uncategorized/memfini"]
+	path = 30/uncategorized/memfini
+	url = https://github.com/anoixesecurity/memfini
+[submodule "30/uncategorized/mercury"]
+	path = 30/uncategorized/mercury
+	url = https://github.com/cisco/mercury
+[submodule "30/uncategorized/opentdf"]
+	path = 30/uncategorized/opentdf
+	url = https://github.com/opentdf/opentdf
+[submodule "30/uncategorized/PacketSender"]
+	path = 30/uncategorized/PacketSender
+	url = https://github.com/dannagle/PacketSender
+[submodule "30/uncategorized/pcileech"]
+	path = 30/uncategorized/pcileech
+	url = https://github.com/ufrisk/pcileech
+[submodule "30/uncategorized/MemProcFS"]
+	path = 30/uncategorized/MemProcFS
+	url = https://github.com/ufrisk/MemProcFS
+[submodule "30/uncategorized/PMR"]
+	path = 30/uncategorized/PMR
+	url = https://github.com/alenazi90/PMR
+[submodule "30/uncategorized/residuefree"]
+	path = 30/uncategorized/residuefree
+	url = https://github.com/LArkema/residuefree
+[submodule "30/uncategorized/SharpSCCM"]
+	path = 30/uncategorized/SharpSCCM
+	url = https://github.com/Mayyhem/SharpSCCM
+[submodule "30/uncategorized/svachal"]
+	path = 30/uncategorized/svachal
+	url = https://github.com/7h3rAm/svachal
+[submodule "30/uncategorized/machinescli"]
+	path = 30/uncategorized/machinescli
+	url = https://github.com/7h3rAm/machinescli
+[submodule "30/uncategorized/TheAllCommander"]
+	path = 30/uncategorized/TheAllCommander
+	url = https://github.com/matt-handy/TheAllCommander
+[submodule "30/uncategorized/unblob"]
+	path = 30/uncategorized/unblob
+	url = https://github.com/onekey-sec/unblob
+[submodule "30/uncategorized/vajra"]
+	path = 30/uncategorized/vajra
+	url = https://github.com/r3curs1v3-pr0xy/vajra
+[submodule "30/uncategorized/Wakanda-Land"]
+	path = 30/uncategorized/Wakanda-Land
+	url = https://github.com/q0phi80/Wakanda-Land
+[submodule "30/uncategorized/Xavier_MemoryAnalysis_Framework"]
+	path = 30/uncategorized/Xavier_MemoryAnalysis_Framework
+	url = https://github.com/solomonsonya/Xavier_MemoryAnalysis_Framework
+[submodule "30/uncategorized/zuthaka"]
+	path = 30/uncategorized/zuthaka
+	url = https://github.com/pucarasec/zuthaka
