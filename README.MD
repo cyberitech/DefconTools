@@ -1,8 +1,8 @@
 # DefconTools
-this repo is meant to hold a clone of tools presented at defcon.  While i attended some in the past, it was not until Defcon 31 I got the idea to do this.  Pull requests for tools released at other Defcons 
-are welcome.  
+Collection of all tools demoed at (currently) Defcon 31 and Defcon 30.  
+Pull requests for tools released at other Defcons are welcome.  
 
-Im going to be adding tools pegged to the commit hash according to the most recent hash at the time they were presented at Defcon.  If you want newer versions, you would need to update the individual package manually to the latest.
+Tools are pegged to the commit hash according to the commit at the time they were presented at Defcon.  Some have probably been updated since then.  If you want newer versions, you would need to update the individual package manually to the latest.
 
 When submitting pull requests, please ensure the submodule is pegged to a release tag or commit hash that would have been used at that year's Defcon.
 
